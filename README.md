@@ -34,3 +34,5 @@
 <a href="https://github.com/kauamaximino">
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamaximino&layout=compact&theme=dark" alt="kauamaximino" />
 </a>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
