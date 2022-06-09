@@ -1,6 +1,6 @@
 ## Olá, me chamo Kauã Maximino. ##
-## Sou Estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)  💻🚀 ##
 
+- ### Estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)  💻🚀 ###
 - ### 🧑‍🎓 Graduando em Análise e Desenvolvimento de Sistemas ####
 - ### 💡 Soft Skills sempre em evolução ####
 <br>
