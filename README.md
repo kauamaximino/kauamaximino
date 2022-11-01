@@ -3,7 +3,7 @@
 
 - ### 📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>  💻 ###
 - ### 🧑‍🎓 Graduando em Análise e Desenvolvimento de Sistemas ####
-- ### 🗣️ Amo falar sobre Tecnologia, Programação, Futebol e História (qualquer tema que seja)! ###
+- ### 🗣️ Amo falar sobre Tecnologia, Programação, Futebol e História! ###
 
 <br>
 
